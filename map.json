@@ -65,7 +65,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.kolleg-st-thomas.de"
+                 "value":"www.kolleg-st-thomas.de"
                 }],
          "type":"tilelayer",
          "visible":true,

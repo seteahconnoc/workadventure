@@ -304,7 +304,7 @@
          "objects":[
                 {
                  "class":"",
-                 "height":61.6672851518306,
+                 "height":51.8879982248357,
                  "id":12,
                  "name":"clockPopup",
                  "rotation":0,
@@ -393,6 +393,22 @@
                  "width":192,
                  "x":768,
                  "y":224
+                }, 
+                {
+                 "class":"",
+                 "height":39.6451612903226,
+                 "id":17,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "text":"Hallo Welt",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":232.020028650255,
+                 "x":326.774365980475,
+                 "y":274.099320882852
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -465,7 +481,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":17,
+ "nextobjectid":18,
  "orientation":"orthogonal",
  "properties":[
         {

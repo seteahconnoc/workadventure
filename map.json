@@ -35,7 +35,7 @@
                  "value":"https:\/\/www.geogebra.org\/notes"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -74,7 +74,7 @@
                  "value":"https:\/\/www.kolleg-st-thomas.de"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -112,7 +112,7 @@
                  "value":"https:\/\/hallo.kst-vechta.de\/"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -144,7 +144,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -176,7 +176,7 @@
          "name":"collisions",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
          "name":"clockZone",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -216,7 +216,7 @@
         {
          "data":[2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
             2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
-            2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
+            2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 0, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
             2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
             2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
             2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2483, 2460, 2460, 2460, 2460, 2460, 2460, 2460, 2460,
@@ -272,7 +272,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"belowFurniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -336,7 +336,7 @@
          "name":"furniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -368,7 +368,7 @@
          "name":"aboveFurniture",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -536,7 +536,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -567,7 +567,7 @@
          "name":"abovePlayer1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
@@ -599,7 +599,7 @@
          "name":"abovePlayer2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":31,
          "x":0,
          "y":0
